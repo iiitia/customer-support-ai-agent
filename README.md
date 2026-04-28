@@ -6,7 +6,7 @@
 
 ## 🚀 Demo
 
-[▶ Watch Loom Demo](https://loom.com/share/your-link-here) ← *replace with your recording*
+[▶ Watch Loom Demo](https://loom.com/share/your-link-here) 
 
 ---
 
