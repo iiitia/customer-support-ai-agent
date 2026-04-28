@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "language": "en",
+    "email": "Hi, I ordered a baby carrier last week and it still hasn't arrived. Can you tell me where my package is?"
+  },
+  {
+    "id": 2,
+    "language": "en",
+    "email": "I received the wrong size dress. I ordered a medium but got a small. I'd like to exchange it for the correct size."
+  },
+  {
+    "id": 3,
+    "language": "en",
+    "email": "This is unacceptable. The stroller I bought fell apart after one use. This is a safety hazard for my child! I want a full refund immediately."
+  },
+  {
+    "id": 4,
+    "language": "ar",
+    "email": "مرحباً، أريد معرفة كيفية إرجاع منتج اشتريته الأسبوع الماضي. هل يمكنكم مساعدتي؟"
+  },
+  {
+    "id": 5,
+    "language": "ar",
+    "email": "وصلني الطلب لكن المنتج كان مكسوراً. أريد استبداله بمنتج جديد من فضلكم."
+  },
+  {
+    "id": 6,
+    "language": "en",
+    "email": "Do you offer gift wrapping? I'm buying a present for a friend's baby shower."
+  },
+  {
+    "id": 7,
+    "language": "en",
+    "email": "I've been waiting 3 weeks for my order. No updates, no tracking info. This is the worst experience I've ever had shopping online."
+  },
+  {
+    "id": 8,
+    "language": "ar",
+    "email": "السلام عليكم، متى سيتم توصيل طلبي؟ لقد مضى على الطلب 5 أيام."
+  }
+]
